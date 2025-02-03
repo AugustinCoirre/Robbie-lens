@@ -30,8 +30,8 @@ body {
     color: #f9f8ff;
   }
   
-  .header,
-  .footer {
+  header,
+  footer {
     background-color: white;
   }
   
